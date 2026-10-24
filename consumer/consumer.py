@@ -1,6 +1,7 @@
 import argparse
 import json
 
+from widget_storage import store_widget
 from request_source import fetch_request, delete_request
 
 parser = argparse.ArgumentParser(description="My program")
@@ -18,14 +19,22 @@ widget_destination = args.widget_destination
 if __name__ == "__main__":
     print("Running main function...")
     while True:
-        try:
-            key, request = fetch_request(request_bucket)
-            if request is not None:
+        key, request = fetch_request(request_bucket)
+        if request is not None:
+            try:
                 data = json.loads(request) # convert json string to python dictionary
                 request_type = data.get("type")
                 widget_id = data.get("widgetId")
                 print ("request_type="+request_type+", widget_id="+widget_id)
+                match request_type:
+                    case "create":
+                        store_widget(storage_target, data, widget_destination)
+                    case "update":
+                        pass
+                    case "delete":
+                        pass
+                    case _: print("Unknown request type: " + request_type)
+            except Exception as e:
+                print("Error processing request: " + str(e))
             if key is not None:
                 delete_request(request_bucket, key)
-        except Exception as e:
-            print("Error processing request: " + str(e))
