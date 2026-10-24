@@ -13,10 +13,8 @@ def fetch_request(bucket): # fetch the next request
     key = response["Contents"][0]["Key"]
     obj = client.get_object(Bucket=bucket, Key=key)
     body = obj["Body"].read().decode("utf-8")
-
-    print("key="+key)
-    print("body="+body)
-
+    # print("key="+key)
+    # print("body="+body)
     return key, body
 
 def delete_request(bucket, key): # delete request after reading
