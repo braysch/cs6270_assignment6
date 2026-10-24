@@ -18,11 +18,14 @@ widget_destination = args.widget_destination
 if __name__ == "__main__":
     print("Running main function...")
     while True:
-        key, request = fetch_request(request_bucket)
-        if request is not None:
-            data = json.loads(request) # convert json string to python dictionary
-            request_type = data.get("type")
-            widget_id = data.get("widgetId")
-            print ("request_type="+request_type+", widget_id="+widget_id)
-        if key is not None:
-            delete_request(request_bucket, key)
+        try:
+            key, request = fetch_request(request_bucket)
+            if request is not None:
+                data = json.loads(request) # convert json string to python dictionary
+                request_type = data.get("type")
+                widget_id = data.get("widgetId")
+                print ("request_type="+request_type+", widget_id="+widget_id)
+            if key is not None:
+                delete_request(request_bucket, key)
+        except Exception as e:
+            print("Error processing request: " + str(e))
