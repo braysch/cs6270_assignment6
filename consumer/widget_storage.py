@@ -13,4 +13,12 @@ def _store_widget_s3(data, widget_destination):
 def _store_widget_dynamodb(data, widget_destination):
     dynamodb = boto3.resource("dynamodb")
     table = dynamodb.Table(widget_destination)
-    print(data)
+    item = {
+        "id": data["widgetId"],
+        "owner": data["owner"],
+        "label": data["label"],
+        "description": data["description"]
+    }
+    for attributes in data["otherAttributes"]:
+        item[attributes["name"]] = attributes["value"]
+    print(item)
