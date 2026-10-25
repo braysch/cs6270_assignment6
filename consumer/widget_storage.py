@@ -1,6 +1,5 @@
 import boto3
 
-
 def store_widget(storage_target, data, widget_destination):
     print("Storing data to " + widget_destination + " ("+storage_target+")")
     if storage_target == "s3":
@@ -21,4 +20,5 @@ def _store_widget_dynamodb(data, widget_destination):
     }
     for attributes in data["otherAttributes"]:
         item[attributes["name"]] = attributes["value"]
-    print(item)
+    #print(item)
+    table.put_item(Item=item)
