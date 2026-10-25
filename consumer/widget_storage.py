@@ -1,3 +1,4 @@
+import json
 import boto3
 
 def store_widget(storage_target, data, widget_destination):
@@ -8,7 +9,13 @@ def store_widget(storage_target, data, widget_destination):
         _store_widget_dynamodb(data, widget_destination)
 
 def _store_widget_s3(data, widget_destination):
-    pass
+    owner = data["owner"].lower().replace(" ", "-")
+    widget_id = data["widgetId"]
+    key = "widgets/"+owner+"/"+widget_id
+    s3 = boto3.client("s3")
+    body = json.dumps(data)
+    s3.put_object(Bucket=widget_destination, Key=key, Body=body)
+
 def _store_widget_dynamodb(data, widget_destination):
     dynamodb = boto3.resource("dynamodb")
     table = dynamodb.Table(widget_destination)
