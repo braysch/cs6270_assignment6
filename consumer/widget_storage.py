@@ -2,23 +2,28 @@ import json
 import boto3
 
 def store_widget(storage_target, data, widget_destination):
-    print("Storing data to " + widget_destination + " ("+storage_target+")")
+    success = False
     if storage_target == "s3":
-        _store_widget_s3(data, widget_destination)
+        success = _store_widget_s3(data, widget_destination)
     else:
-        _store_widget_dynamodb(data, widget_destination)
+        success = _store_widget_dynamodb(data, widget_destination)
+    return success
 
 def _store_widget_s3(data, widget_destination):
     key = _build_s3_key(data)
     s3 = boto3.client("s3")
     body = json.dumps(data)
-    s3.put_object(Bucket=widget_destination, Key=key, Body=body)
+    response = s3.put_object(Bucket=widget_destination, Key=key, Body=body)
+    status = response["ResponseMetadata"]["HTTPStatusCode"]
+    return status == 200
 
 def _store_widget_dynamodb(data, widget_destination):
     dynamodb = boto3.resource("dynamodb")
     table = dynamodb.Table(widget_destination)
     item = _build_dynamodb_item(data)
-    table.put_item(Item=item)
+    response = table.put_item(Item=item)
+    status = response["ResponseMetadata"]["HTTPStatusCode"]
+    return status == 200
 
 def _build_s3_key(data):
     owner = data["owner"]

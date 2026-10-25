@@ -1,0 +1,408 @@
+2026-10-24 19:43:39,273 INFO Processing request of type create with widget_id: b1c23cd0-c8ab-4792-b6cd-070aef104bb6 [1]
+2026-10-24 19:43:39,273 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:39,703 INFO Item stored successfully
+2026-10-24 19:43:39,965 INFO Processing request of type create with widget_id: 2d934257-c962-4326-8ba0-816ae2fd0e49 [2]
+2026-10-24 19:43:39,966 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:40,371 INFO Item stored successfully
+2026-10-24 19:43:40,640 INFO Processing request of type update with widget_id: f753ce90-fc42-4d5e-9c7f-8cbd15107563 [3]
+2026-10-24 19:43:40,640 INFO This type is not yet implemented - skipping
+2026-10-24 19:43:40,914 INFO Processing request of type create with widget_id: 82847a37-6e96-46f8-b432-ed0c801f26b2 [4]
+2026-10-24 19:43:40,914 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:41,308 INFO Item stored successfully
+2026-10-24 19:43:41,576 INFO Processing request of type create with widget_id: f54a5945-8aed-43a9-8b94-6610fe0d53b5 [5]
+2026-10-24 19:43:41,576 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:41,966 INFO Item stored successfully
+2026-10-24 19:43:42,235 INFO Processing request of type create with widget_id: f25ef529-a554-41ee-99ed-0d90b4f968d9 [6]
+2026-10-24 19:43:42,235 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:42,647 INFO Item stored successfully
+2026-10-24 19:43:42,911 INFO Processing request of type create with widget_id: ea183deb-6dee-4212-9bda-eeb920185a54 [7]
+2026-10-24 19:43:42,911 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:43,281 INFO Item stored successfully
+2026-10-24 19:43:43,555 INFO Processing request of type update with widget_id: 51937665-dc54-4318-b60c-555eed794ace [8]
+2026-10-24 19:43:43,555 INFO This type is not yet implemented - skipping
+2026-10-24 19:43:43,813 INFO Processing request of type delete with widget_id: 2d934257-c962-4326-8ba0-816ae2fd0e49 [9]
+2026-10-24 19:43:43,814 INFO This type is not yet implemented - skipping
+2026-10-24 19:43:44,085 INFO Processing request of type create with widget_id: 0fd7402a-e104-471d-b0be-ccc460c2aa85 [10]
+2026-10-24 19:43:44,086 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:44,457 INFO Item stored successfully
+2026-10-24 19:43:44,726 INFO Processing request of type create with widget_id: 3bdaa2e6-0e78-4a53-b454-53eeb7440a40 [11]
+2026-10-24 19:43:44,726 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:45,073 INFO Item stored successfully
+2026-10-24 19:43:45,336 INFO Processing request of type update with widget_id: 4e7ae7ad-7369-4ffd-b8d1-0b480f01286c [12]
+2026-10-24 19:43:45,336 INFO This type is not yet implemented - skipping
+2026-10-24 19:43:45,598 INFO Processing request of type create with widget_id: da6d21a4-412a-4641-a176-792ec6c385fe [13]
+2026-10-24 19:43:45,598 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:45,977 INFO Item stored successfully
+2026-10-24 19:43:46,236 INFO Processing request of type create with widget_id: 7c63a202-cf05-4523-b660-4a6d70cf6e19 [14]
+2026-10-24 19:43:46,236 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:46,641 INFO Item stored successfully
+2026-10-24 19:43:46,905 INFO Processing request of type create with widget_id: 72532523-c41c-49be-8125-585802babdda [15]
+2026-10-24 19:43:46,905 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:47,348 INFO Item stored successfully
+2026-10-24 19:43:47,671 INFO Processing request of type delete with widget_id: f58842f0-646f-466d-8bf9-b072b6263ee3 [16]
+2026-10-24 19:43:47,672 INFO This type is not yet implemented - skipping
+2026-10-24 19:43:47,972 INFO Processing request of type create with widget_id: 0b046dd1-2e6b-420b-bccf-6273de46e7ee [17]
+2026-10-24 19:43:47,972 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:48,441 INFO Item stored successfully
+2026-10-24 19:43:48,768 INFO Processing request of type create with widget_id: 58c6526d-7685-419c-8ad2-e744e9502f45 [18]
+2026-10-24 19:43:48,768 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:49,194 INFO Item stored successfully
+2026-10-24 19:43:49,615 INFO Processing request of type create with widget_id: 90541336-3f53-4e15-8af5-4301e4978238 [19]
+2026-10-24 19:43:49,616 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:50,065 INFO Item stored successfully
+2026-10-24 19:43:50,357 INFO Processing request of type create with widget_id: 567df5c9-599f-4ad9-9a3e-1f97a426513f [20]
+2026-10-24 19:43:50,358 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:50,762 INFO Item stored successfully
+2026-10-24 19:43:51,026 INFO Processing request of type create with widget_id: 78d97468-44eb-4772-8488-4233eeb29832 [21]
+2026-10-24 19:43:51,026 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:51,447 INFO Item stored successfully
+2026-10-24 19:43:51,775 INFO Processing request of type update with widget_id: 90541336-3f53-4e15-8af5-4301e4978238 [22]
+2026-10-24 19:43:51,775 INFO This type is not yet implemented - skipping
+2026-10-24 19:43:52,062 INFO Processing request of type create with widget_id: b5c20353-5ffc-44f3-bf2a-7a0a27e737e9 [23]
+2026-10-24 19:43:52,062 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:52,479 INFO Item stored successfully
+2026-10-24 19:43:52,766 INFO Processing request of type create with widget_id: 65942484-00ea-4d7f-9295-ebcfc34047ef [24]
+2026-10-24 19:43:52,766 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:53,171 INFO Item stored successfully
+2026-10-24 19:43:53,432 INFO Processing request of type create with widget_id: a31e4000-5b98-4ad0-986e-236d980786c7 [25]
+2026-10-24 19:43:53,432 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:53,811 INFO Item stored successfully
+2026-10-24 19:43:54,101 INFO Processing request of type create with widget_id: 1375f33f-4dca-478e-ad72-b87d78ee4fbf [26]
+2026-10-24 19:43:54,101 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:54,500 INFO Item stored successfully
+2026-10-24 19:43:54,768 INFO Processing request of type create with widget_id: 719053f1-df40-48be-8eed-f073d3876bfb [27]
+2026-10-24 19:43:54,769 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:55,150 INFO Item stored successfully
+2026-10-24 19:43:55,415 INFO Processing request of type create with widget_id: 630dd455-6bee-4eb7-85e7-1dfa59a7ce2f [28]
+2026-10-24 19:43:55,415 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:55,788 INFO Item stored successfully
+2026-10-24 19:43:56,057 INFO Processing request of type create with widget_id: 86a801d6-ed3f-4ec3-8f13-b6b0e696bac5 [29]
+2026-10-24 19:43:56,057 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:56,491 INFO Item stored successfully
+2026-10-24 19:43:56,756 INFO Processing request of type create with widget_id: d89c0c78-2949-4c9c-9a11-5d0a129de74a [30]
+2026-10-24 19:43:56,756 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:57,132 INFO Item stored successfully
+2026-10-24 19:43:57,391 INFO Processing request of type update with widget_id: b5c20353-5ffc-44f3-bf2a-7a0a27e737e9 [31]
+2026-10-24 19:43:57,391 INFO This type is not yet implemented - skipping
+2026-10-24 19:43:57,660 INFO Processing request of type create with widget_id: afb44be9-59d2-4060-bb98-afc969b171cc [32]
+2026-10-24 19:43:57,660 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:58,061 INFO Item stored successfully
+2026-10-24 19:43:58,329 INFO Processing request of type create with widget_id: 5b555b9c-1397-4bc8-a2e2-971ed21e1473 [33]
+2026-10-24 19:43:58,329 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:58,742 INFO Item stored successfully
+2026-10-24 19:43:59,227 INFO Processing request of type create with widget_id: 00e21549-c0ac-405e-8502-fd0ca898fa93 [34]
+2026-10-24 19:43:59,227 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:43:59,635 INFO Item stored successfully
+2026-10-24 19:43:59,926 INFO Processing request of type update with widget_id: 78d97468-44eb-4772-8488-4233eeb29832 [35]
+2026-10-24 19:43:59,927 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:00,202 INFO Processing request of type update with widget_id: 5b555b9c-1397-4bc8-a2e2-971ed21e1473 [36]
+2026-10-24 19:44:00,202 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:00,469 INFO Processing request of type update with widget_id: 65942484-00ea-4d7f-9295-ebcfc34047ef [37]
+2026-10-24 19:44:00,469 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:00,754 INFO Processing request of type create with widget_id: 993dca02-bd4a-4ba8-907f-3698b8eb7dad [38]
+2026-10-24 19:44:00,755 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:01,164 INFO Item stored successfully
+2026-10-24 19:44:01,438 INFO Processing request of type delete with widget_id: 5b555b9c-1397-4bc8-a2e2-971ed21e1473 [39]
+2026-10-24 19:44:01,439 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:01,706 INFO Processing request of type create with widget_id: 1dcf95c3-8153-4c65-8f5f-1270490a62eb [40]
+2026-10-24 19:44:01,706 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:02,111 INFO Item stored successfully
+2026-10-24 19:44:02,392 INFO Processing request of type create with widget_id: beb72ade-6c3b-46aa-8ce5-7abb7f400941 [41]
+2026-10-24 19:44:02,392 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:02,788 INFO Item stored successfully
+2026-10-24 19:44:03,096 INFO Processing request of type update with widget_id: 90541336-3f53-4e15-8af5-4301e4978238 [42]
+2026-10-24 19:44:03,096 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:03,390 INFO Processing request of type update with widget_id: 00e21549-c0ac-405e-8502-fd0ca898fa93 [43]
+2026-10-24 19:44:03,391 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:03,667 INFO Processing request of type delete with widget_id: afb44be9-59d2-4060-bb98-afc969b171cc [44]
+2026-10-24 19:44:03,667 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:03,942 INFO Processing request of type create with widget_id: dc753735-747b-42ac-803d-6ce6d1b47721 [45]
+2026-10-24 19:44:03,942 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:04,323 INFO Item stored successfully
+2026-10-24 19:44:04,623 INFO Processing request of type update with widget_id: 719053f1-df40-48be-8eed-f073d3876bfb [46]
+2026-10-24 19:44:04,623 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:04,897 INFO Processing request of type update with widget_id: 58c6526d-7685-419c-8ad2-e744e9502f45 [47]
+2026-10-24 19:44:04,898 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:05,199 INFO Processing request of type create with widget_id: 19ef0c89-374e-4bf4-a74c-3d51186f73e3 [48]
+2026-10-24 19:44:05,199 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:05,576 INFO Item stored successfully
+2026-10-24 19:44:05,845 INFO Processing request of type update with widget_id: 58c6526d-7685-419c-8ad2-e744e9502f45 [49]
+2026-10-24 19:44:05,845 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:06,117 INFO Processing request of type update with widget_id: d89c0c78-2949-4c9c-9a11-5d0a129de74a [50]
+2026-10-24 19:44:06,117 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:06,389 INFO Processing request of type create with widget_id: d0b1da1b-ffa4-46f0-ac0a-3bfbebbb676e [51]
+2026-10-24 19:44:06,389 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:06,802 INFO Item stored successfully
+2026-10-24 19:44:07,097 INFO Processing request of type create with widget_id: 63826ce1-b6aa-423e-8793-c519ad73b5ce [52]
+2026-10-24 19:44:07,097 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:07,503 INFO Item stored successfully
+2026-10-24 19:44:07,800 INFO Processing request of type create with widget_id: 0397ae55-971e-4599-85c0-833cacae1cbd [53]
+2026-10-24 19:44:07,800 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:08,281 INFO Item stored successfully
+2026-10-24 19:44:08,564 INFO Processing request of type create with widget_id: 6021f54d-b48d-4d58-8738-4f3ed9f5fda8 [54]
+2026-10-24 19:44:08,564 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:08,926 INFO Item stored successfully
+2026-10-24 19:44:09,201 INFO Processing request of type create with widget_id: d88d1590-027a-4136-bd55-24c2492d7092 [55]
+2026-10-24 19:44:09,201 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:09,587 INFO Item stored successfully
+2026-10-24 19:44:09,851 INFO Processing request of type update with widget_id: 00e21549-c0ac-405e-8502-fd0ca898fa93 [56]
+2026-10-24 19:44:09,851 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:10,118 INFO Processing request of type update with widget_id: b5c20353-5ffc-44f3-bf2a-7a0a27e737e9 [57]
+2026-10-24 19:44:10,118 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:10,391 INFO Processing request of type create with widget_id: 88b97a69-6306-4824-ab7b-01dfbcdfd7de [58]
+2026-10-24 19:44:10,392 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:10,737 INFO Item stored successfully
+2026-10-24 19:44:11,011 INFO Processing request of type update with widget_id: d89c0c78-2949-4c9c-9a11-5d0a129de74a [59]
+2026-10-24 19:44:11,011 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:11,279 INFO Processing request of type update with widget_id: 1dcf95c3-8153-4c65-8f5f-1270490a62eb [60]
+2026-10-24 19:44:11,280 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:11,551 INFO Processing request of type update with widget_id: 65942484-00ea-4d7f-9295-ebcfc34047ef [61]
+2026-10-24 19:44:11,552 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:11,825 INFO Processing request of type update with widget_id: 58c6526d-7685-419c-8ad2-e744e9502f45 [62]
+2026-10-24 19:44:11,825 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:12,096 INFO Processing request of type update with widget_id: 58c6526d-7685-419c-8ad2-e744e9502f45 [63]
+2026-10-24 19:44:12,096 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:12,371 INFO Processing request of type create with widget_id: 55c6c940-ccbc-4ca3-ae60-e5d9aab80659 [64]
+2026-10-24 19:44:12,371 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:12,792 INFO Item stored successfully
+2026-10-24 19:44:13,071 INFO Processing request of type update with widget_id: 88b97a69-6306-4824-ab7b-01dfbcdfd7de [65]
+2026-10-24 19:44:13,071 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:13,389 INFO Processing request of type update with widget_id: 1375f33f-4dca-478e-ad72-b87d78ee4fbf [66]
+2026-10-24 19:44:13,389 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:13,663 INFO Processing request of type create with widget_id: cfc00152-3d84-49a2-a7c5-aca4842941f7 [67]
+2026-10-24 19:44:13,663 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:14,049 INFO Item stored successfully
+2026-10-24 19:44:14,544 INFO Processing request of type create with widget_id: f752ea39-2c9c-4d8f-a16c-0cb902c863ed [68]
+2026-10-24 19:44:14,544 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:14,977 INFO Item stored successfully
+2026-10-24 19:44:15,252 INFO Processing request of type create with widget_id: d6402178-8afe-4c73-bd29-9c87fff91f0a [69]
+2026-10-24 19:44:15,253 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:15,648 INFO Item stored successfully
+2026-10-24 19:44:15,918 INFO Processing request of type create with widget_id: 348c3e58-d6b4-4abe-957e-f752d7f78187 [70]
+2026-10-24 19:44:15,918 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:16,319 INFO Item stored successfully
+2026-10-24 19:44:16,583 INFO Processing request of type update with widget_id: 0397ae55-971e-4599-85c0-833cacae1cbd [71]
+2026-10-24 19:44:16,584 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:16,837 INFO Processing request of type update with widget_id: 78d97468-44eb-4772-8488-4233eeb29832 [72]
+2026-10-24 19:44:16,837 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:17,107 INFO Processing request of type create with widget_id: b99c8aa6-1c4a-4b0c-8ab5-4307c519c21a [73]
+2026-10-24 19:44:17,107 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:17,511 INFO Item stored successfully
+2026-10-24 19:44:17,778 INFO Processing request of type create with widget_id: fc25e6bd-919d-4528-a040-22248c1116fe [74]
+2026-10-24 19:44:17,779 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:18,143 INFO Item stored successfully
+2026-10-24 19:44:18,407 INFO Processing request of type create with widget_id: 4f3a537b-0557-4c11-a875-5ebb3bb57a1c [75]
+2026-10-24 19:44:18,407 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:18,774 INFO Item stored successfully
+2026-10-24 19:44:19,039 INFO Processing request of type update with widget_id: d6402178-8afe-4c73-bd29-9c87fff91f0a [76]
+2026-10-24 19:44:19,039 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:19,314 INFO Processing request of type create with widget_id: b8032c84-91df-4032-9fd6-5a3d1e37e1f4 [77]
+2026-10-24 19:44:19,314 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:19,676 INFO Item stored successfully
+2026-10-24 19:44:19,954 INFO Processing request of type update with widget_id: d6402178-8afe-4c73-bd29-9c87fff91f0a [78]
+2026-10-24 19:44:19,954 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:20,217 INFO Processing request of type create with widget_id: 2ae24f35-4c32-454e-a285-76573c58f96d [79]
+2026-10-24 19:44:20,217 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:20,592 INFO Item stored successfully
+2026-10-24 19:44:20,879 INFO Processing request of type update with widget_id: b8032c84-91df-4032-9fd6-5a3d1e37e1f4 [80]
+2026-10-24 19:44:20,880 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:21,145 INFO Processing request of type update with widget_id: 1375f33f-4dca-478e-ad72-b87d78ee4fbf [81]
+2026-10-24 19:44:21,145 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:21,404 INFO Processing request of type update with widget_id: 19ef0c89-374e-4bf4-a74c-3d51186f73e3 [82]
+2026-10-24 19:44:21,404 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:21,693 INFO Processing request of type update with widget_id: beb72ade-6c3b-46aa-8ce5-7abb7f400941 [83]
+2026-10-24 19:44:21,693 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:22,030 INFO Processing request of type update with widget_id: 348c3e58-d6b4-4abe-957e-f752d7f78187 [84]
+2026-10-24 19:44:22,031 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:22,299 INFO Processing request of type update with widget_id: a31e4000-5b98-4ad0-986e-236d980786c7 [85]
+2026-10-24 19:44:22,299 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:22,570 INFO Processing request of type create with widget_id: c473495b-2407-4cc9-af71-8d979d563626 [86]
+2026-10-24 19:44:22,570 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:22,963 INFO Item stored successfully
+2026-10-24 19:44:23,236 INFO Processing request of type create with widget_id: 6700cbca-b016-4f89-bd71-fdd25732b529 [87]
+2026-10-24 19:44:23,236 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:23,628 INFO Item stored successfully
+2026-10-24 19:44:23,891 INFO Processing request of type create with widget_id: 5bf5156b-6ac5-4792-90b9-5712cd67ad9f [88]
+2026-10-24 19:44:23,892 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:24,289 INFO Item stored successfully
+2026-10-24 19:44:24,569 INFO Processing request of type update with widget_id: 88b97a69-6306-4824-ab7b-01dfbcdfd7de [89]
+2026-10-24 19:44:24,569 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:24,845 INFO Processing request of type create with widget_id: b27284dd-c60a-4bd6-ba5f-00b83eea232a [90]
+2026-10-24 19:44:24,845 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:25,212 INFO Item stored successfully
+2026-10-24 19:44:25,473 INFO Processing request of type update with widget_id: f752ea39-2c9c-4d8f-a16c-0cb902c863ed [91]
+2026-10-24 19:44:25,474 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:25,755 INFO Processing request of type create with widget_id: 76dbc40d-6911-491b-80d8-3c4361a7c383 [92]
+2026-10-24 19:44:25,755 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:26,171 INFO Item stored successfully
+2026-10-24 19:44:26,437 INFO Processing request of type create with widget_id: c0d4e1d5-3951-455a-a724-39d0f7d90d4f [93]
+2026-10-24 19:44:26,438 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:26,810 INFO Item stored successfully
+2026-10-24 19:44:27,077 INFO Processing request of type create with widget_id: fb51a035-6d0b-4e3e-b5eb-433530bbff03 [94]
+2026-10-24 19:44:27,078 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:27,567 INFO Item stored successfully
+2026-10-24 19:44:27,854 INFO Processing request of type create with widget_id: 11ad6771-61af-4b4a-a41f-024e0a9380f4 [95]
+2026-10-24 19:44:27,854 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:28,274 INFO Item stored successfully
+2026-10-24 19:44:28,534 INFO Processing request of type update with widget_id: 6021f54d-b48d-4d58-8738-4f3ed9f5fda8 [96]
+2026-10-24 19:44:28,534 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:28,799 INFO Processing request of type create with widget_id: 762f82f6-79fb-4fee-9201-3531c49febae [97]
+2026-10-24 19:44:28,799 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:29,204 INFO Item stored successfully
+2026-10-24 19:44:29,461 INFO Processing request of type create with widget_id: 536695fc-e291-4b71-bc09-632b28068e5c [98]
+2026-10-24 19:44:29,461 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:29,846 INFO Item stored successfully
+2026-10-24 19:44:30,105 INFO Processing request of type create with widget_id: c76328e4-494c-45e6-80c2-b42585a3c3cc [99]
+2026-10-24 19:44:30,105 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:30,468 INFO Item stored successfully
+2026-10-24 19:44:30,734 INFO Processing request of type create with widget_id: eaec16bd-6e44-49c4-a19f-384d13f19f03 [100]
+2026-10-24 19:44:30,735 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:31,175 INFO Item stored successfully
+2026-10-24 19:44:31,671 INFO Processing request of type delete with widget_id: b5c20353-5ffc-44f3-bf2a-7a0a27e737e9 [101]
+2026-10-24 19:44:31,671 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:31,940 INFO Processing request of type update with widget_id: beb72ade-6c3b-46aa-8ce5-7abb7f400941 [102]
+2026-10-24 19:44:31,941 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:32,203 INFO Processing request of type create with widget_id: 887600ee-1450-43fe-94a2-4034674a762a [103]
+2026-10-24 19:44:32,203 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:32,575 INFO Item stored successfully
+2026-10-24 19:44:32,881 INFO Processing request of type update with widget_id: 1dcf95c3-8153-4c65-8f5f-1270490a62eb [104]
+2026-10-24 19:44:32,881 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:33,154 INFO Processing request of type create with widget_id: 098d039c-f58f-420a-b335-c74ce375e884 [105]
+2026-10-24 19:44:33,154 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:33,528 INFO Item stored successfully
+2026-10-24 19:44:33,788 INFO Processing request of type delete with widget_id: 88b97a69-6306-4824-ab7b-01dfbcdfd7de [106]
+2026-10-24 19:44:33,788 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:34,056 INFO Processing request of type update with widget_id: fc25e6bd-919d-4528-a040-22248c1116fe [107]
+2026-10-24 19:44:34,056 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:34,323 INFO Processing request of type create with widget_id: dc758d57-0f8e-4f97-b77a-75925c8c6c1a [108]
+2026-10-24 19:44:34,323 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:34,680 INFO Item stored successfully
+2026-10-24 19:44:34,948 INFO Processing request of type delete with widget_id: d0b1da1b-ffa4-46f0-ac0a-3bfbebbb676e [109]
+2026-10-24 19:44:34,948 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:35,253 INFO Processing request of type update with widget_id: d88d1590-027a-4136-bd55-24c2492d7092 [110]
+2026-10-24 19:44:35,253 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:35,618 INFO Processing request of type create with widget_id: 5038d50e-e36f-4520-810e-3981868176c7 [111]
+2026-10-24 19:44:35,618 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:35,994 INFO Item stored successfully
+2026-10-24 19:44:36,272 INFO Processing request of type update with widget_id: d6402178-8afe-4c73-bd29-9c87fff91f0a [112]
+2026-10-24 19:44:36,272 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:36,546 INFO Processing request of type create with widget_id: 687291c7-94fc-42b4-a5ec-9d8739f2a6c8 [113]
+2026-10-24 19:44:36,546 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:36,950 INFO Item stored successfully
+2026-10-24 19:44:37,212 INFO Processing request of type create with widget_id: 383898ec-e308-473b-9790-6011261b74b7 [114]
+2026-10-24 19:44:37,212 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:37,619 INFO Item stored successfully
+2026-10-24 19:44:37,890 INFO Processing request of type create with widget_id: 7e03cc8e-3143-4b46-8e09-7f96888b0e3e [115]
+2026-10-24 19:44:37,890 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:38,260 INFO Item stored successfully
+2026-10-24 19:44:38,537 INFO Processing request of type create with widget_id: e07ba5dc-3c74-4e1d-a5b1-aef702b272ee [116]
+2026-10-24 19:44:38,537 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:38,927 INFO Item stored successfully
+2026-10-24 19:44:39,270 INFO Processing request of type update with widget_id: 098d039c-f58f-420a-b335-c74ce375e884 [117]
+2026-10-24 19:44:39,270 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:39,554 INFO Processing request of type update with widget_id: 098d039c-f58f-420a-b335-c74ce375e884 [118]
+2026-10-24 19:44:39,554 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:39,827 INFO Processing request of type create with widget_id: 220dcf0c-b7bf-4360-b64f-7be708a32559 [119]
+2026-10-24 19:44:39,828 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:40,199 INFO Item stored successfully
+2026-10-24 19:44:40,463 INFO Processing request of type update with widget_id: 19ef0c89-374e-4bf4-a74c-3d51186f73e3 [120]
+2026-10-24 19:44:40,463 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:40,730 INFO Processing request of type update with widget_id: 098d039c-f58f-420a-b335-c74ce375e884 [121]
+2026-10-24 19:44:40,730 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:40,983 INFO Processing request of type update with widget_id: cfc00152-3d84-49a2-a7c5-aca4842941f7 [122]
+2026-10-24 19:44:40,983 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:41,260 INFO Processing request of type create with widget_id: 0db9911d-aea8-4051-bc27-25ac0725c267 [123]
+2026-10-24 19:44:41,260 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:41,641 INFO Item stored successfully
+2026-10-24 19:44:41,910 INFO Processing request of type create with widget_id: 0acd59c7-71d2-4ac7-9bdf-9aa317168ecd [124]
+2026-10-24 19:44:41,911 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:42,279 INFO Item stored successfully
+2026-10-24 19:44:42,545 INFO Processing request of type create with widget_id: 0787efe5-36b6-4d21-b1e2-6c29091ecffd [125]
+2026-10-24 19:44:42,546 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:42,925 INFO Item stored successfully
+2026-10-24 19:44:43,200 INFO Processing request of type create with widget_id: 8c12df8f-8cfb-47d1-af02-b649f6e3bf49 [126]
+2026-10-24 19:44:43,201 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:43,542 INFO Item stored successfully
+2026-10-24 19:44:43,846 INFO Processing request of type update with widget_id: 78d97468-44eb-4772-8488-4233eeb29832 [127]
+2026-10-24 19:44:43,846 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:44,116 INFO Processing request of type create with widget_id: 92095483-30d6-465b-afd2-d25f9b58857f [128]
+2026-10-24 19:44:44,116 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:44,470 INFO Item stored successfully
+2026-10-24 19:44:44,751 INFO Processing request of type update with widget_id: 687291c7-94fc-42b4-a5ec-9d8739f2a6c8 [129]
+2026-10-24 19:44:44,751 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:45,021 INFO Processing request of type create with widget_id: c6d24f37-371c-4671-985a-b5e35cf9eb11 [130]
+2026-10-24 19:44:45,021 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:45,405 INFO Item stored successfully
+2026-10-24 19:44:45,707 INFO Processing request of type update with widget_id: 00e21549-c0ac-405e-8502-fd0ca898fa93 [131]
+2026-10-24 19:44:45,707 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:45,994 INFO Processing request of type update with widget_id: 6021f54d-b48d-4d58-8738-4f3ed9f5fda8 [132]
+2026-10-24 19:44:45,994 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:46,265 INFO Processing request of type update with widget_id: 65942484-00ea-4d7f-9295-ebcfc34047ef [133]
+2026-10-24 19:44:46,266 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:46,766 INFO Processing request of type update with widget_id: 1375f33f-4dca-478e-ad72-b87d78ee4fbf [134]
+2026-10-24 19:44:46,766 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:47,055 INFO Processing request of type update with widget_id: 567df5c9-599f-4ad9-9a3e-1f97a426513f [135]
+2026-10-24 19:44:47,055 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:47,342 INFO Processing request of type create with widget_id: 20fb7418-c7b1-47dd-a0c2-aa4a640531b4 [136]
+2026-10-24 19:44:47,342 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:47,799 INFO Item stored successfully
+2026-10-24 19:44:48,061 INFO Processing request of type create with widget_id: d31c540b-f257-4610-95c6-291ea3efe9ae [137]
+2026-10-24 19:44:48,061 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:48,439 INFO Item stored successfully
+2026-10-24 19:44:48,703 INFO Processing request of type create with widget_id: 54da7965-ff7a-4415-ba4f-2d9606f7fe76 [138]
+2026-10-24 19:44:48,703 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:49,099 INFO Item stored successfully
+2026-10-24 19:44:49,377 INFO Processing request of type update with widget_id: 630dd455-6bee-4eb7-85e7-1dfa59a7ce2f [139]
+2026-10-24 19:44:49,377 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:49,643 INFO Processing request of type create with widget_id: 137e4b34-9707-458d-9a0d-589658b7d4f1 [140]
+2026-10-24 19:44:49,643 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:50,015 INFO Item stored successfully
+2026-10-24 19:44:50,285 INFO Processing request of type create with widget_id: 528a5860-3d09-447d-8151-28e86591da69 [141]
+2026-10-24 19:44:50,286 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:50,702 INFO Item stored successfully
+2026-10-24 19:44:50,957 INFO Processing request of type update with widget_id: 630dd455-6bee-4eb7-85e7-1dfa59a7ce2f [142]
+2026-10-24 19:44:50,957 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:51,223 INFO Processing request of type create with widget_id: adeaa1d6-92fd-4082-80fc-182832a5dd25 [143]
+2026-10-24 19:44:51,223 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:51,613 INFO Item stored successfully
+2026-10-24 19:44:51,904 INFO Processing request of type update with widget_id: eaec16bd-6e44-49c4-a19f-384d13f19f03 [144]
+2026-10-24 19:44:51,904 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:52,157 INFO Processing request of type update with widget_id: 6700cbca-b016-4f89-bd71-fdd25732b529 [145]
+2026-10-24 19:44:52,157 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:52,416 INFO Processing request of type create with widget_id: d0752b48-0ccc-4819-994d-40d3fa7c097c [146]
+2026-10-24 19:44:52,417 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:52,789 INFO Item stored successfully
+2026-10-24 19:44:53,099 INFO Processing request of type create with widget_id: 40cff4d0-a441-4bd5-87b6-efe02b076fce [147]
+2026-10-24 19:44:53,099 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:53,470 INFO Item stored successfully
+2026-10-24 19:44:53,737 INFO Processing request of type update with widget_id: 76dbc40d-6911-491b-80d8-3c4361a7c383 [148]
+2026-10-24 19:44:53,737 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:54,000 INFO Processing request of type create with widget_id: 0a3a7d82-f2d0-4ca1-b63e-f4687c6c2ed4 [149]
+2026-10-24 19:44:54,000 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:54,360 INFO Item stored successfully
+2026-10-24 19:44:54,637 INFO Processing request of type create with widget_id: b674e2ad-91ef-4263-ad0d-2a9b049651f3 [150]
+2026-10-24 19:44:54,637 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:55,129 INFO Item stored successfully
+2026-10-24 19:44:55,460 INFO Processing request of type update with widget_id: b99c8aa6-1c4a-4b0c-8ab5-4307c519c21a [151]
+2026-10-24 19:44:55,460 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:55,727 INFO Processing request of type create with widget_id: 0a233437-4754-441c-9787-7b2816b6eec4 [152]
+2026-10-24 19:44:55,728 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:56,164 INFO Item stored successfully
+2026-10-24 19:44:56,490 INFO Processing request of type create with widget_id: 7a6faf64-d060-4a89-863a-9966a5759b67 [153]
+2026-10-24 19:44:56,490 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:56,970 INFO Item stored successfully
+2026-10-24 19:44:57,304 INFO Processing request of type create with widget_id: f0d47e49-4aae-4502-a622-c1b513e7146f [154]
+2026-10-24 19:44:57,304 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:57,741 INFO Item stored successfully
+2026-10-24 19:44:58,072 INFO Processing request of type create with widget_id: d5de6869-cefc-4d21-b230-c068b89c2e9c [155]
+2026-10-24 19:44:58,072 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:58,440 INFO Item stored successfully
+2026-10-24 19:44:58,720 INFO Processing request of type create with widget_id: ac52fe81-f47e-462a-85d7-7978cb10c90f [156]
+2026-10-24 19:44:58,720 INFO Storing data to usu-cs5270-blood-web (s3)
+2026-10-24 19:44:59,080 INFO Item stored successfully
+2026-10-24 19:44:59,332 INFO Processing request of type update with widget_id: 7a6faf64-d060-4a89-863a-9966a5759b67 [157]
+2026-10-24 19:44:59,333 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:59,597 INFO Processing request of type update with widget_id: 7a6faf64-d060-4a89-863a-9966a5759b67 [158]
+2026-10-24 19:44:59,598 INFO This type is not yet implemented - skipping
+2026-10-24 19:44:59,869 INFO Processing request of type update with widget_id: 0a233437-4754-441c-9787-7b2816b6eec4 [159]
+2026-10-24 19:44:59,869 INFO This type is not yet implemented - skipping
