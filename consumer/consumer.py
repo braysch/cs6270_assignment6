@@ -1,5 +1,6 @@
 import argparse
 import json
+import time
 
 from widget_storage import store_widget
 from request_source import fetch_request, delete_request
@@ -38,3 +39,5 @@ if __name__ == "__main__":
                 print("Error processing request: " + str(e))
             if key is not None:
                 delete_request(request_bucket, key)
+        else:
+            time.sleep(0.1)
