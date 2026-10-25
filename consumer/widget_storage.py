@@ -26,7 +26,7 @@ def _build_s3_key(data):
         owner = "Unknown Owner"
     owner_string = owner.lower().replace(" ", "-")
     widget_id = data["widgetId"]
-    key = "widgets/"+owner+"/"+widget_id
+    key = "widgets/"+owner_string+"/"+widget_id
     return key
 
 def _build_dynamodb_item(data):
