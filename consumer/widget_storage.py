@@ -9,9 +9,7 @@ def store_widget(storage_target, data, widget_destination):
         _store_widget_dynamodb(data, widget_destination)
 
 def _store_widget_s3(data, widget_destination):
-    owner = data["owner"].lower().replace(" ", "-")
-    widget_id = data["widgetId"]
-    key = "widgets/"+owner+"/"+widget_id
+    key = _build_s3_key(data)
     s3 = boto3.client("s3")
     body = json.dumps(data)
     s3.put_object(Bucket=widget_destination, Key=key, Body=body)
@@ -19,6 +17,19 @@ def _store_widget_s3(data, widget_destination):
 def _store_widget_dynamodb(data, widget_destination):
     dynamodb = boto3.resource("dynamodb")
     table = dynamodb.Table(widget_destination)
+    item = _build_dynamodb_item(data)
+    table.put_item(Item=item)
+
+def _build_s3_key(data):
+    owner = data["owner"]
+    if owner == "" or owner is None:
+        owner = "Unknown Owner"
+    owner_string = owner.lower().replace(" ", "-")
+    widget_id = data["widgetId"]
+    key = "widgets/"+owner+"/"+widget_id
+    return key
+
+def _build_dynamodb_item(data):
     item = {
         "id": data["widgetId"],
         "owner": data["owner"],
@@ -28,4 +39,4 @@ def _store_widget_dynamodb(data, widget_destination):
     for attributes in data["otherAttributes"]:
         item[attributes["name"]] = attributes["value"]
     #print(item)
-    table.put_item(Item=item)
+    return item
