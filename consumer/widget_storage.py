@@ -32,10 +32,12 @@ def _build_s3_key(data):
 def _build_dynamodb_item(data):
     item = {
         "id": data["widgetId"],
-        "owner": data["owner"],
-        "label": data["label"],
-        "description": data["description"]
+        "owner": data["owner"]
     }
+    if "label" in data:
+        item["label"] = data["label"]
+    if "description" in data:
+        item["description"] = data["description"]
     if "otherAttributes" in data:
         for attributes in data["otherAttributes"]:
             item[attributes["name"]] = attributes["value"]

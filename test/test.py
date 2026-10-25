@@ -93,10 +93,21 @@ def test_build_dynamodb_item_other_attributes_empty():
     assert "size" not in item
     assert "weight" not in item
 
-def test_build_dynamodb_item_empty():
-    data = {}
+def test_build_dynamodb_missing_optional_items():
+    data = {
+        "type": "WidgetCreateRequest",
+        "requestId": "req-001",
+        "widgetId": "widget-abc-123",
+        "owner": "John Schmidt"
+    }
     item = _build_dynamodb_item(data)
-    with pytest.raises(KeyError): _build_dynamodb_item(data)
+    assert item["id"] == "widget-abc-123"
+    assert item["owner"] == "John Schmidt"
+    assert "label" not in item
+    assert "description" not in item
+    assert "color" not in item
+    assert "size" not in item
+    assert "weight" not in item
 
 # requests
 
