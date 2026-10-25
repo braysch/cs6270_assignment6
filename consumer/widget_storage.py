@@ -36,7 +36,8 @@ def _build_dynamodb_item(data):
         "label": data["label"],
         "description": data["description"]
     }
-    for attributes in data["otherAttributes"]:
-        item[attributes["name"]] = attributes["value"]
-    #print(item)
+    if "otherAttributes" in data:
+        for attributes in data["otherAttributes"]:
+            item[attributes["name"]] = attributes["value"]
+        #print(item)
     return item
